@@ -1,0 +1,376 @@
+{
+  "properties": [
+    {
+      "Id": 1,
+      "title": "Luxurious Manhattan Penthouse with Skyline Views",
+      "price": 2850000,
+      "type": "Apartment",
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "area": 2100,
+      "address": "432 Park Avenue, Manhattan, NY 10016",
+      "coordinates": { "lat": 40.7589, "lng": -73.9721 },
+      "images": [
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80"
+      ],
+      "description": "Experience luxury living at its finest in this stunning penthouse apartment featuring floor-to-ceiling windows with breathtaking city skyline views. This modern residence boasts premium finishes throughout, including hardwood floors, marble countertops, and state-of-the-art appliances. The open-concept living space is perfect for entertaining, while the master suite offers a private retreat with spa-like bathroom and walk-in closet.",
+      "features": [
+        "Floor-to-ceiling windows",
+        "Hardwood floors throughout",
+        "Marble kitchen countertops",
+        "Stainless steel appliances",
+        "In-unit washer/dryer",
+        "Private balcony",
+        "Concierge service",
+        "Fitness center access",
+        "Rooftop terrace",
+        "24/7 doorman"
+      ],
+      "listed": "2024-01-15T10:30:00Z"
+    },
+    {
+      "Id": 2,
+      "title": "Charming Brooklyn Brownstone with Garden",
+      "price": 1250000,
+      "type": "House",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 2800,
+      "address": "156 Prospect Heights, Brooklyn, NY 11215",
+      "coordinates": { "lat": 40.6782, "lng": -73.9680 },
+      "images": [
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+        "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=800&q=80",
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+      ],
+      "description": "Step into this beautifully restored 19th-century brownstone that perfectly blends historic charm with modern amenities. Located in the heart of Prospect Heights, this home features original architectural details, high ceilings, and abundant natural light. The private garden provides a peaceful oasis in the city, perfect for outdoor dining and relaxation.",
+      "features": [
+        "Original hardwood floors",
+        "Exposed brick walls",
+        "High ceilings",
+        "Renovated kitchen",
+        "Private garden",
+        "Original fireplace",
+        "Crown molding",
+        "Basement storage",
+        "Near Prospect Park",
+        "Close to subway"
+      ],
+      "listed": "2024-01-18T14:20:00Z"
+    },
+    {
+      "Id": 3,
+      "title": "Modern Soho Loft with Industrial Details",
+      "price": 1890000,
+      "type": "Condo",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1650,
+      "address": "89 Greene Street, Soho, NY 10012",
+      "coordinates": { "lat": 40.7230, "lng": -74.0030 },
+      "images": [
+        "https://images.unsplash.com/photo-1493663284031-b7e3aaa4cab7?w=800&q=80",
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800&q=80",
+        "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
+        "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?w=800&q=80"
+      ],
+      "description": "Discover urban sophistication in this stunning Soho loft featuring soaring ceilings, exposed beams, and oversized windows that flood the space with natural light. The open floor plan creates seamless flow between living areas, while industrial elements like polished concrete floors and steel fixtures add character and charm.",
+      "features": [
+        "Soaring 12-foot ceilings",
+        "Exposed wooden beams",
+        "Polished concrete floors",
+        "Oversized windows",
+        "Open floor plan",
+        "Industrial fixtures",
+        "Modern kitchen island",
+        "Walk-in closets",
+        "Prime Soho location",
+        "Gallery district"
+      ],
+      "listed": "2024-01-22T09:15:00Z"
+    },
+    {
+      "Id": 4,
+      "title": "Elegant Upper East Side Townhouse",
+      "price": 4200000,
+      "type": "Townhouse",
+      "bedrooms": 5,
+      "bathrooms": 4.5,
+      "area": 3500,
+      "address": "234 East 78th Street, Upper East Side, NY 10075",
+      "coordinates": { "lat": 40.7736, "lng": -73.9566 },
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800&q=80",
+        "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&q=80",
+        "https://images.unsplash.com/photo-1496664444929-8c75efb9546f?w=800&q=80"
+      ],
+      "description": "Experience timeless elegance in this magnificent Upper East Side townhouse, featuring classic pre-war architecture and luxury finishes throughout. This rare find offers multiple floors of gracious living space, perfect for both intimate family moments and grand entertaining. The property includes a private garden and is located on one of the most coveted tree-lined streets.",
+      "features": [
+        "Pre-war architecture",
+        "Original crown molding",
+        "Marble bathrooms",
+        "Chef's kitchen",
+        "Private garden",
+        "Multiple fireplaces",
+        "Library/study",
+        "Wine cellar",
+        "Tree-lined street",
+        "Near Central Park"
+      ],
+      "listed": "2024-01-25T16:45:00Z"
+    },
+    {
+      "Id": 5,
+      "title": "Contemporary Queens Villa with Pool",
+      "price": 950000,
+      "type": "Villa",
+      "bedrooms": 4,
+      "bathrooms": 3,
+      "area": 3200,
+      "address": "567 Astoria Boulevard, Queens, NY 11105",
+      "coordinates": { "lat": 40.7282, "lng": -73.9176 },
+      "images": [
+        "https://images.unsplash.com/photo-1613490493576-7fde63acd811?w=800&q=80",
+        "https://images.unsplash.com/photo-1564013799919-ab600027ffc6?w=800&q=80",
+        "https://images.unsplash.com/photo-1582268611958-ebfd161ef9cf?w=800&q=80",
+        "https://images.unsplash.com/photo-1574362848149-11496d93a7c7?w=800&q=80"
+      ],
+      "description": "Escape to your own private oasis in this stunning contemporary villa featuring a beautiful backyard pool and entertainment area. This modern home offers spacious living areas with an open concept design, perfect for family life and hosting guests. The property includes premium upgrades throughout and a two-car garage.",
+      "features": [
+        "Swimming pool",
+        "Two-car garage",
+        "Open concept design",
+        "Modern kitchen",
+        "Master suite",
+        "Backyard deck",
+        "Central air",
+        "Security system",
+        "Close to Manhattan",
+        "Family neighborhood"
+      ],
+      "listed": "2024-01-28T11:30:00Z"
+    },
+    {
+      "Id": 6,
+      "title": "Cozy East Village Studio Apartment",
+      "price": 485000,
+      "type": "Studio",
+      "bedrooms": 1,
+      "bathrooms": 1,
+      "area": 650,
+      "address": "45 St. Marks Place, East Village, NY 10003",
+      "coordinates": { "lat": 40.7282, "lng": -73.9857 },
+      "images": [
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80",
+        "https://images.unsplash.com/photo-1555636222-cae831e670b3?w=800&q=80",
+        "https://images.unsplash.com/photo-1556909114-f6e7ad7d3136?w=800&q=80",
+        "https://images.unsplash.com/photo-1563298723-dcfebaa392e3?w=800&q=80"
+      ],
+      "description": "Perfect starter home in the vibrant East Village! This well-designed studio maximizes every square foot with clever storage solutions and an efficient layout. The unit features high ceilings, large windows, and has been recently renovated with modern finishes. Located in the heart of one of NYC's most dynamic neighborhoods.",
+      "features": [
+        "High ceilings",
+        "Large windows",
+        "Recently renovated",
+        "Efficient layout",
+        "Modern bathroom",
+        "Hardwood floors",
+        "Close to subway",
+        "Vibrant neighborhood",
+        "Restaurants nearby",
+        "Nightlife district"
+      ],
+      "listed": "2024-02-01T13:20:00Z"
+    },
+    {
+      "Id": 7,
+      "title": "Spacious Midtown West 2-Bedroom with Amenities",
+      "price": 1650000,
+      "type": "Apartment",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1350,
+      "address": "789 10th Avenue, Midtown West, NY 10019",
+      "coordinates": { "lat": 40.7614, "lng": -73.9776 },
+      "images": [
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80"
+      ],
+      "description": "Luxury living in the heart of Midtown West! This spacious 2-bedroom apartment offers modern finishes, abundant natural light, and access to world-class building amenities. The unit features an open kitchen with premium appliances, in-unit laundry, and stunning city views from multiple exposures.",
+      "features": [
+        "Premium appliances",
+        "In-unit laundry",
+        "City views",
+        "Doorman building",
+        "Fitness center",
+        "Rooftop deck",
+        "Concierge service",
+        "Storage unit",
+        "Near Times Square",
+        "Theater district"
+      ],
+      "listed": "2024-02-03T08:45:00Z"
+    },
+    {
+      "Id": 8,
+      "title": "Historic Harlem Brownstone with Original Details",
+      "price": 1150000,
+      "type": "House",
+      "bedrooms": 3,
+      "bathrooms": 2.5,
+      "area": 2200,
+      "address": "123 Malcolm X Boulevard, Harlem, NY 10026",
+      "coordinates": { "lat": 40.8176, "lng": -73.9482 },
+      "images": [
+        "https://images.unsplash.com/photo-1449844908441-8829872d2607?w=800&q=80",
+        "https://images.unsplash.com/photo-1570129477492-45c003edd2be?w=800&q=80",
+        "https://images.unsplash.com/photo-1505843513577-22bb7d21e455?w=800&q=80",
+        "https://images.unsplash.com/photo-1522708323590-d24dbb6b0267?w=800&q=80"
+      ],
+      "description": "Own a piece of New York history with this beautifully preserved Harlem brownstone. This property retains its original architectural charm while offering modern updates for comfortable living. The home features original moldings, hardwood floors, and period details that tell the story of this historic neighborhood.",
+      "features": [
+        "Original moldings",
+        "Period details",
+        "Hardwood floors",
+        "Updated kitchen",
+        "Garden level",
+        "High ceilings",
+        "Original staircase",
+        "Historic district",
+        "Cultural landmarks",
+        "Transportation hub"
+      ],
+      "listed": "2024-02-05T15:10:00Z"
+    },
+    {
+      "Id": 9,
+      "title": "Luxury Financial District High-Rise with Harbor Views",
+      "price": 2100000,
+      "type": "Apartment",
+      "bedrooms": 3,
+      "bathrooms": 2,
+      "area": 1850,
+      "address": "456 Wall Street, Financial District, NY 10005",
+      "coordinates": { "lat": 40.7074, "lng": -74.0113 },
+      "images": [
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80",
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80"
+      ],
+      "description": "Wake up to stunning harbor views in this luxury Financial District apartment. This modern residence offers floor-to-ceiling windows, premium finishes, and access to exceptional building amenities. The location provides easy access to transportation, dining, and the waterfront, making it perfect for the urban professional.",
+      "features": [
+        "Harbor views",
+        "Floor-to-ceiling windows",
+        "Modern kitchen",
+        "Marble bathrooms",
+        "Building gym",
+        "Rooftop terrace",
+        "24-hour doorman",
+        "Valet parking",
+        "Waterfront access",
+        "Financial center"
+      ],
+      "listed": "2024-02-08T12:30:00Z"
+    },
+    {
+      "Id": 10,
+      "title": "Trendy Williamsburg Loft with River Views",
+      "price": 1750000,
+      "type": "Condo",
+      "bedrooms": 2,
+      "bathrooms": 2,
+      "area": 1500,
+      "address": "321 East River Drive, Williamsburg, NY 11249",
+      "coordinates": { "lat": 40.7081, "lng": -73.9571 },
+      "images": [
+        "https://images.unsplash.com/photo-1493663284031-b7e3aaa4cab7?w=800&q=80",
+        "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?w=800&q=80",
+        "https://images.unsplash.com/photo-1567767292278-a4f21aa2d36e?w=800&q=80",
+        "https://images.unsplash.com/photo-1560185127-6ed189bf02f4?w=800&q=80"
+      ],
+      "description": "Experience Brooklyn's coolest neighborhood in this stunning Williamsburg loft with breathtaking East River views. This converted industrial space features original brick walls, polished concrete floors, and an open layout perfect for modern living. The building offers rooftop access with Manhattan skyline views.",
+      "features": [
+        "East River views",
+        "Original brick walls",
+        "Polished concrete",
+        "Industrial windows",
+        "Open layout",
+        "Rooftop access",
+        "Skyline views",
+        "Trendy neighborhood",
+        "Artisan restaurants",
+        "Waterfront parks"
+      ],
+      "listed": "2024-02-10T09:45:00Z"
+    },
+    {
+      "Id": 11,
+      "title": "Classic Upper West Side Pre-War Apartment",
+      "price": 1425000,
+      "type": "Apartment",
+      "bedrooms": 2,
+      "bathrooms": 1.5,
+      "area": 1200,
+      "address": "890 West End Avenue, Upper West Side, NY 10025",
+      "coordinates": { "lat": 40.7956, "lng": -73.9722 },
+      "images": [
+        "https://images.unsplash.com/photo-1502672260266-1c1ef2d93688?w=800&q=80",
+        "https://images.unsplash.com/photo-1560448204-e02f11c3d0e2?w=800&q=80",
+        "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?w=800&q=80",
+        "https://images.unsplash.com/photo-1484154218962-a197022b5858?w=800&q=80"
+      ],
+      "description": "Timeless elegance meets modern comfort in this classic Upper West Side pre-war apartment. Featuring high ceilings, original hardwood floors, and beautiful period details, this home offers the perfect blend of old-world charm and contemporary amenities. Located just blocks from Central Park and Lincoln Center.",
+      "features": [
+        "Pre-war building",
+        "High ceilings",
+        "Original hardwood",
+        "Period details",
+        "Renovated kitchen",
+        "Classic bathroom",
+        "Central Park nearby",
+        "Lincoln Center",
+        "Cultural district",
+        "Excellent schools"
+      ],
+      "listed": "2024-02-12T14:15:00Z"
+    },
+    {
+      "Id": 12,
+      "title": "Modern Battery Park City Family Home",
+      "price": 3250000,
+      "type": "Townhouse",
+      "bedrooms": 4,
+      "bathrooms": 3.5,
+      "area": 2900,
+      "address": "199 Battery Place, Battery Park City, NY 10280",
+      "coordinates": { "lat": 40.7092, "lng": -74.0179 },
+      "images": [
+        "https://images.unsplash.com/photo-1512917774080-9991f1c4c750?w=800&q=80",
+        "https://images.unsplash.com/photo-1554995207-c18c203602cb?w=800&q=80",
+        "https://images.unsplash.com/photo-1505691938895-1758d7feb511?w=800&q=80",
+        "https://images.unsplash.com/photo-1496664444929-8c75efb9546f?w=800&q=80"
+      ],
+      "description": "Perfect family sanctuary in the heart of Battery Park City. This modern townhouse offers spacious living across multiple levels with a private garden and garage parking. The home features contemporary finishes, abundant natural light, and is located in a family-friendly community with excellent schools and parks.",
+      "features": [
+        "Private garden",
+        "Garage parking",
+        "Multiple levels",
+        "Modern finishes",
+        "Family community",
+        "Excellent schools",
+        "Waterfront parks",
+        "Playgrounds nearby",
+        "Safe neighborhood",
+        "Harbor views"
+      ],
+      "listed": "2024-02-14T11:00:00Z"
+    }
+  ]
+}
