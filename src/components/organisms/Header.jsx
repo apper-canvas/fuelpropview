@@ -37,7 +37,7 @@ const Header = () => {
               <ApperIcon name="Home" size={24} className="text-white" />
             </div>
             <span className="text-2xl font-display font-bold gradient-text">
-              PropView
+              PropView 1
             </span>
           </Link>
 
