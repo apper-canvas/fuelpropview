@@ -126,9 +126,9 @@ export const PropertyService = {
       const apperClient = getApperClient()
       
       // Filter to only include updateable fields
-      const filteredData = {}
+const filteredData = {}
       updateableFields.forEach(field => {
-        if (propertyData.hasOwnProperty(field)) {
+        if (Object.hasOwn(propertyData, field)) {
           filteredData[field] = propertyData[field]
         }
       })
@@ -189,9 +189,9 @@ export const PropertyService = {
       const apperClient = getApperClient()
       
       // Filter to only include updateable fields
-      const filteredData = { Id: id }
+const filteredData = { Id: id }
       updateableFields.forEach(field => {
-        if (propertyData.hasOwnProperty(field)) {
+        if (Object.hasOwn(propertyData, field)) {
           filteredData[field] = propertyData[field]
         }
       })
