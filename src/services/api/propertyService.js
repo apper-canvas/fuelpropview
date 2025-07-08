@@ -128,7 +128,7 @@ export const PropertyService = {
       // Filter to only include updateable fields
 const filteredData = {}
       updateableFields.forEach(field => {
-        if (Object.hasOwn(propertyData, field)) {
+        if (Object.prototype.hasOwnProperty.call(propertyData, field)) {
           filteredData[field] = propertyData[field]
         }
       })
@@ -191,7 +191,7 @@ const filteredData = {}
       // Filter to only include updateable fields
 const filteredData = { Id: id }
       updateableFields.forEach(field => {
-        if (Object.hasOwn(propertyData, field)) {
+        if (Object.prototype.hasOwnProperty.call(propertyData, field)) {
           filteredData[field] = propertyData[field]
         }
       })
