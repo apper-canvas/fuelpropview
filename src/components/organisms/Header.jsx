@@ -32,12 +32,12 @@ const Header = () => {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           {/* Logo */}
-          <Link to="/" className="flex items-center gap-2">
+<Link to="/" className="flex items-center gap-2">
             <div className="bg-gradient-to-r from-secondary to-orange-400 p-2 rounded-lg">
               <ApperIcon name="Home" size={24} className="text-white" />
             </div>
             <span className="text-2xl font-display font-bold gradient-text">
-              PropView 4
+              {location.pathname === '/' ? 'YourBricks' : 'PropView 4'}
             </span>
           </Link>
 
